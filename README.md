@@ -1,3 +1,3 @@
 # politics
 
-## Data from opensecrets.org 
+Data from opensecrets.org
